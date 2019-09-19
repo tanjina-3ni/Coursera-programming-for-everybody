@@ -4,5 +4,6 @@ We've also learned about-
 - Conditional Statements
 - While Loop
 - For Loop
-- Function both built in and user defined function
+- Function both built in and user defined function etc.
+
 We have also learned some hardware basics here!
